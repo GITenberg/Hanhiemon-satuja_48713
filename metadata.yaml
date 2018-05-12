@@ -1,9 +1,13 @@
 _repo: Hanhiemon-satuja_48713
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Haapanen-Tallgren, Tyyne
     gutenberg_agent_id: '44231'
     url: http://www.gutenberg.org/2009/agents/44231
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Perrault, Charles
@@ -15,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Perrault
     - http://en.wikipedia.org/wiki/Charles_Perrault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48713#Hanhiemon-satuja
 gutenberg_issued: '2015-04-15'
 gutenberg_type: Text
 identifiers:
